@@ -1,0 +1,16 @@
+## Command Line-
+    main.go
+
+## Packages-
+    config (app.go)
+    controllers(book-controllers)
+    models (book.go)
+    routes (bookstore-routes)
+    utils (utils.go)
+
+## Routes
+    Functions (includes api requests) ~
+    GETBOOKS
+    /Book/
+    POST
+    
