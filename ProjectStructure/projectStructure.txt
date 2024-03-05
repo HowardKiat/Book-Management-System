@@ -10,7 +10,12 @@
 
 ## Routes
     Functions (includes api requests) ~
-    GETBOOKS
-    /Book/
-    POST
+    - GETBOOKS > book > POST
+    - CREATEBOOK > book > GET
+    - GETBOOKID > book > GET
+    - UPDATEBOOK > book > EDIT
+    - DELETEBOOK > book > DELETE
+
+    
+    
     
